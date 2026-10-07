@@ -1,0 +1,77 @@
+Initial State:
+ 1 2 3 
+ 4 0 5 
+ 6 7 8 
+-------
+Solved in 14 moves!
+
+Step 1: Move Right
+ 1 2 3 
+ 4 5 0 
+ 6 7 8 
+-------
+Step 2: Move Down
+ 1 2 3 
+ 4 5 8 
+ 6 7 0 
+-------
+Step 3: Move Left
+ 1 2 3 
+ 4 5 8 
+ 6 0 7 
+-------
+Step 4: Move Left
+ 1 2 3 
+ 4 5 8 
+ 0 6 7 
+-------
+Step 5: Move Up
+ 1 2 3 
+ 0 5 8 
+ 4 6 7 
+-------
+Step 6: Move Right
+ 1 2 3 
+ 5 0 8 
+ 4 6 7 
+-------
+Step 7: Move Down
+ 1 2 3 
+ 5 6 8 
+ 4 0 7 
+-------
+Step 8: Move Right
+ 1 2 3 
+ 5 6 8 
+ 4 7 0 
+-------
+Step 9: Move Up
+ 1 2 3 
+ 5 6 0 
+ 4 7 8 
+-------
+Step 10: Move Left
+ 1 2 3 
+ 5 0 6 
+ 4 7 8 
+-------
+Step 11: Move Left
+ 1 2 3 
+ 0 5 6 
+ 4 7 8 
+-------
+Step 12: Move Down
+ 1 2 3 
+ 4 5 6 
+ 0 7 8 
+-------
+Step 13: Move Right
+ 1 2 3 
+ 4 5 6 
+ 7 0 8 
+-------
+Step 14: Move Right
+ 1 2 3 
+ 4 5 6 
+ 7 8 0 
+-------
