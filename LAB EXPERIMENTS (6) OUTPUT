@@ -1,1 +1,6 @@
-
+Vacuum is in room A
+Room A cleaned
+Vacuum is in room B
+Room B cleaned
+All rooms are clean!
+{'A': 'Clean', 'B': 'Clean'}
