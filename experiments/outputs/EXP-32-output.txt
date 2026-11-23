@@ -1,0 +1,3 @@
+Slope: 0.6
+Intercept: 2.2
+Prediction at x=6: 5.8

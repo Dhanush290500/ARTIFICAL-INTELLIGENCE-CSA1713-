@@ -1,0 +1,2 @@
+Best x: 31
+Maximum f(x): 961

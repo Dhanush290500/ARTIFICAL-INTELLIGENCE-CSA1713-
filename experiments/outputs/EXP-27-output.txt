@@ -1,0 +1,2 @@
+?- best_first(a, goal, Path).
+Path = [a, c, goal].

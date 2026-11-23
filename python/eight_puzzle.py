@@ -1,48 +1,27 @@
-def get_user_puzzle():
-    """Prompts the user to enter a custom puzzle state and validates it."""
-    print("Enter your custom 8-puzzle start state.")
-    print("Use numbers 0-8 separated by spaces, where 0 is the blank space.")
-    print("Example: 1 2 3 4 0 5 6 7 8\n")
-    
-    while True:
-        try:
-            user_input = input("Enter puzzle: ")
-            # Split the input string by spaces and convert each piece to an integer
-            state = tuple(int(x) for x in user_input.split())
-            
-            # Validation 1: Check if there are exactly 9 numbers
-            if len(state) != 9:
-                print("Error: You must enter exactly 9 numbers. Try again.\n")
-                continue
-                
-            # Validation 2: Check if the numbers are exactly 0 through 8
-            if set(state) != set(range(9)):
-                print("Error: You must use each number from 0 to 8 exactly once. Try again.\n")
-                continue
-                
-            return state
-            
-        except ValueError:
-            print("Error: Please enter only valid integers separated by spaces. Try again.\n")
+"""EXP 01: 8-puzzle solver using breadth-first search."""
+from collections import deque
 
+START = (1, 2, 3, 4, 0, 6, 7, 5, 8)
+GOAL = (1, 2, 3, 4, 5, 6, 7, 8, 0)
 
-# --- Example Usage ---
-if __name__ == "__main__":
-    goal = (1, 2, 3, 4, 5, 6, 7, 8, 0)
-    
-    # Call the new function to get user input
-    initial = get_user_puzzle()
-    
-    print("\nInitial State:")
-    print_board(initial)
-    print("Solving... (this may take a moment for complex boards)")
-    
-    solution_path = solve_8_puzzle(initial, goal)
-    
-    if solution_path:
-        print(f"\nSolved in {len(solution_path)} moves!\n")
-        for step, (move, state) in enumerate(solution_path, 1):
-            print(f"Step {step}: Move {move}")
-            print_board(state)
-    else:
-        print("\nNo solution exists for this configuration.")
+def solve(start, goal):
+    queue=deque([(start, [start])]); seen={start}
+    while queue:
+        state,path=queue.popleft()
+        if state==goal: return path
+        z=state.index(0); r,c=divmod(z,3)
+        for dr,dc,move in [(-1,0,'Up'),(1,0,'Down'),(0,-1,'Left'),(0,1,'Right')]:
+            nr,nc=r+dr,c+dc
+            if 0<=nr<3 and 0<=nc<3:
+                j=nr*3+nc; nxt=list(state); nxt[z],nxt[j]=nxt[j],nxt[z]; nxt=tuple(nxt)
+                if nxt not in seen: seen.add(nxt); queue.append((nxt,path+[nxt]))
+    return None
+
+def show(state):
+    for i in range(0,9,3): print(' '.join('_' if x==0 else str(x) for x in state[i:i+3]))
+
+if __name__=='__main__':
+    solution=solve(START,GOAL)
+    print(f'Solution found in {len(solution)-1} moves:')
+    for step,state in enumerate(solution):
+        print(f'Step {step}:'); show(state)

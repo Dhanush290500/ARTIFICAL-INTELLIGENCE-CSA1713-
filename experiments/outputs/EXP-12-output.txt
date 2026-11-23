@@ -1,0 +1,31 @@
+  |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+Player X, enter position (1-9): X |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+Player O, enter position (1-9): X |   |  
+--+---+--
+O |   |  
+--+---+--
+  |   |  
+Player X, enter position (1-9): X | X |  
+--+---+--
+O |   |  
+--+---+--
+  |   |  
+Player O, enter position (1-9): X | X |  
+--+---+--
+O | O |  
+--+---+--
+  |   |  
+Player X, enter position (1-9): X | X | X
+--+---+--
+O | O |  
+--+---+--
+  |   |  
+Player X wins!

@@ -1,0 +1,2 @@
+?- planet(earth, Order).
+Order = 3.

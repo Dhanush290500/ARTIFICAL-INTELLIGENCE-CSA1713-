@@ -1,0 +1,3 @@
+Most similar user: 3
+Recommended item: 3
+Similarity: 1.0

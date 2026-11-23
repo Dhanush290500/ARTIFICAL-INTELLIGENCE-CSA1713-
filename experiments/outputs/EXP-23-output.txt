@@ -1,0 +1,2 @@
+?- grandparent(Who, charlie).
+Who = alice.

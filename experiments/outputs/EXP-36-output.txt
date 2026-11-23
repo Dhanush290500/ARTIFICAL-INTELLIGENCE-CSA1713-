@@ -1,0 +1,3 @@
+The lesson was clear and helpful -> positive (score=2)
+The explanation was confusing and poor -> negative (score=-2)
+The session is today -> neutral (score=0)

@@ -1,0 +1,4 @@
+?- can_fly(sparrow).
+yes
+?- can_fly(penguin).
+no

@@ -1,0 +1,5 @@
+"""EXP 33: KNN classification on a tiny labeled dataset."""
+from sklearn.neighbors import KNeighborsClassifier
+X=[[1,1],[1,2],[2,1],[6,6],[6,7],[7,6]]; y=['A','A','A','B','B','B']
+m=KNeighborsClassifier(n_neighbors=3).fit(X,y)
+print('Prediction for [2, 2]:',m.predict([[2,2]])[0]); print('Training accuracy:',round(m.score(X,y),2))

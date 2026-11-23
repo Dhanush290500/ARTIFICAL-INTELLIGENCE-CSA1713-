@@ -1,0 +1,2 @@
+?- teaches(Teacher, ai101).
+Teacher = dr_kumar.

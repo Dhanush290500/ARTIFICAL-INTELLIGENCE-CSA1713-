@@ -1,0 +1,2 @@
+Best score for MAX: 5
+Nodes evaluated: 11

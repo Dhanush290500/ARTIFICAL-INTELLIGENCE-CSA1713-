@@ -1,0 +1,2 @@
+?- solve(monkey_banana).
+Monkey climbs box and takes banana.

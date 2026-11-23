@@ -1,0 +1,11 @@
+Total valid arrangements found: 92
+
+Visualizing the first solution:
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 

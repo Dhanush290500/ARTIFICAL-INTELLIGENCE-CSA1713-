@@ -1,0 +1,3 @@
+Original dimensions: 4
+Reduced dimensions: 2
+First projected sample: [-2.265, -0.48]

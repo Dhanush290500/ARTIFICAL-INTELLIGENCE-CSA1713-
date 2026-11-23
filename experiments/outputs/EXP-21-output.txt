@@ -1,0 +1,2 @@
+?- hanoi(3, left, right, spare).
+Moves printed: 7

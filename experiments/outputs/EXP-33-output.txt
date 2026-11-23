@@ -1,0 +1,2 @@
+Prediction for [2, 2]: A
+Training accuracy: 1.0

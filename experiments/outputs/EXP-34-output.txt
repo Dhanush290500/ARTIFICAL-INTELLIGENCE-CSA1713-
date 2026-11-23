@@ -1,0 +1,2 @@
+Test accuracy: 0.98 (varies slightly by scikit-learn version)
+First test image prediction: 5

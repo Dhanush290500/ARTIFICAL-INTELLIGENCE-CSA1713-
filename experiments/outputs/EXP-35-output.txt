@@ -1,0 +1,2 @@
+Prediction for [6, 5]: B
+Training accuracy: 1.0

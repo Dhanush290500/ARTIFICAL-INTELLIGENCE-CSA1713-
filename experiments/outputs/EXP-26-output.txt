@@ -1,0 +1,3 @@
+?- fruit_color(Fruit, Color).
+Fruit = apple, Color = red ;
+Fruit = banana, Color = yellow.

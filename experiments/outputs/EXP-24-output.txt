@@ -1,0 +1,2 @@
+?- diet_for(diabetes, Foods).
+Foods = [vegetables, whole_grains, legumes].

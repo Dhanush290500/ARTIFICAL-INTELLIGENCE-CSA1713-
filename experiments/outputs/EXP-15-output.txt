@@ -1,0 +1,1 @@
+Decision tree classifier fitted on Iris; prints test accuracy and learned rules.

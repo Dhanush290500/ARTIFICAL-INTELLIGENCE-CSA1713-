@@ -1,0 +1,2 @@
+?- forward_chain(facts, Conclusions).
+Conclusions include: eligible.
