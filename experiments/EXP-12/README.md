@@ -4,4 +4,4 @@
 
 Source: `tic_tac_toe.py`
 
-Sample output: [`../outputs/EXP-12-output.txt`](../outputs/EXP-12-output.txt)
+Sample output: [`../../OUTPUT/EXP-12-output.txt`](../../OUTPUT/EXP-12-output.txt)

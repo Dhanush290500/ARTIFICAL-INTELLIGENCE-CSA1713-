@@ -4,4 +4,4 @@
 
 Source: `feed_forward_neural_network.py`
 
-Sample output: [`../outputs/EXP-16-output.txt`](../outputs/EXP-16-output.txt)
+Sample output: [`../../OUTPUT/EXP-16-output.txt`](../../OUTPUT/EXP-16-output.txt)

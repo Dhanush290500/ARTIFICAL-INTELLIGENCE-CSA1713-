@@ -4,4 +4,4 @@
 
 Source: `index.html`
 
-Sample output: [`../outputs/EXP-31-output.txt`](../outputs/EXP-31-output.txt)
+Sample output: [`../../OUTPUT/EXP-31-output.txt`](../../OUTPUT/EXP-31-output.txt)

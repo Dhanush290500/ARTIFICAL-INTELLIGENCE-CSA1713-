@@ -1,6 +1,6 @@
 # CSA17 Artificial Intelligence Lab — Experiments 1–40
 
-This collection follows the first 40 items in the supplied five-day lab list. Each numbered folder contains the experiment source and a short description; captured/example outputs are in `experiments/outputs/`. The source PDF lists 50 items in total; this set covers items 1–40 as requested.
+This collection follows the first 40 items in the supplied five-day lab list. Each numbered folder contains the experiment source and a short description; captured/example outputs are in the root-level `OUTPUT/` folder. The source PDF lists 50 items in total; this set covers items 1–40 as requested.
 
 ## Index
 

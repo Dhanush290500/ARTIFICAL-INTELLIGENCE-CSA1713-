@@ -4,4 +4,4 @@
 
 Source: `backward_chaining.pl`
 
-Sample output: [`../outputs/EXP-30-output.txt`](../outputs/EXP-30-output.txt)
+Sample output: [`../../OUTPUT/EXP-30-output.txt`](../../OUTPUT/EXP-30-output.txt)

@@ -4,4 +4,4 @@
 
 Source: `towers_of_hanoi.pl`
 
-Sample output: [`../outputs/EXP-21-output.txt`](../outputs/EXP-21-output.txt)
+Sample output: [`../../OUTPUT/EXP-21-output.txt`](../../OUTPUT/EXP-21-output.txt)

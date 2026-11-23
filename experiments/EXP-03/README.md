@@ -4,4 +4,4 @@
 
 Source: `water_jug.py`
 
-Sample output: [`../outputs/EXP-03-output.txt`](../outputs/EXP-03-output.txt)
+Sample output: [`../../OUTPUT/EXP-03-output.txt`](../../OUTPUT/EXP-03-output.txt)

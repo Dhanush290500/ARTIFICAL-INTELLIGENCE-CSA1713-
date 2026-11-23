@@ -4,4 +4,4 @@
 
 Source: `medical_diagnosis.pl`
 
-Sample output: [`../outputs/EXP-28-output.txt`](../outputs/EXP-28-output.txt)
+Sample output: [`../../OUTPUT/EXP-28-output.txt`](../../OUTPUT/EXP-28-output.txt)

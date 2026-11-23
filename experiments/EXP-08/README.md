@@ -4,4 +4,4 @@
 
 Source: `depth_first_search.py`
 
-Sample output: [`../outputs/EXP-08-output.txt`](../outputs/EXP-08-output.txt)
+Sample output: [`../../OUTPUT/EXP-08-output.txt`](../../OUTPUT/EXP-08-output.txt)

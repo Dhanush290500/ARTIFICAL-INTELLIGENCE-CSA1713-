@@ -4,4 +4,4 @@
 
 Source: `fruit_colors_backtracking.pl`
 
-Sample output: [`../outputs/EXP-26-output.txt`](../outputs/EXP-26-output.txt)
+Sample output: [`../../OUTPUT/EXP-26-output.txt`](../../OUTPUT/EXP-26-output.txt)

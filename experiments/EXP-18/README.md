@@ -4,4 +4,4 @@
 
 Source: `name_dob_database.pl`
 
-Sample output: [`../outputs/EXP-18-output.txt`](../outputs/EXP-18-output.txt)
+Sample output: [`../../OUTPUT/EXP-18-output.txt`](../../OUTPUT/EXP-18-output.txt)

@@ -4,4 +4,4 @@
 
 Source: `a_star_search.py`
 
-Sample output: [`../outputs/EXP-10-output.txt`](../outputs/EXP-10-output.txt)
+Sample output: [`../../OUTPUT/EXP-10-output.txt`](../../OUTPUT/EXP-10-output.txt)

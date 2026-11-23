@@ -4,4 +4,4 @@
 
 Source: `monkey_banana.pl`
 
-Sample output: [`../outputs/EXP-25-output.txt`](../outputs/EXP-25-output.txt)
+Sample output: [`../../OUTPUT/EXP-25-output.txt`](../../OUTPUT/EXP-25-output.txt)

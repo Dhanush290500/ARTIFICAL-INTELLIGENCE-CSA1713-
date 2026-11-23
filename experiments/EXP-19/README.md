@@ -4,4 +4,4 @@
 
 Source: `student_teacher_subject.pl`
 
-Sample output: [`../outputs/EXP-19-output.txt`](../outputs/EXP-19-output.txt)
+Sample output: [`../../OUTPUT/EXP-19-output.txt`](../../OUTPUT/EXP-19-output.txt)

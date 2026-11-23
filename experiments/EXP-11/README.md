@@ -4,4 +4,4 @@
 
 Source: `map_coloring.py`
 
-Sample output: [`../outputs/EXP-11-output.txt`](../outputs/EXP-11-output.txt)
+Sample output: [`../../OUTPUT/EXP-11-output.txt`](../../OUTPUT/EXP-11-output.txt)

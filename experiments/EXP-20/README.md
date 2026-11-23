@@ -4,4 +4,4 @@
 
 Source: `planets_database.pl`
 
-Sample output: [`../outputs/EXP-20-output.txt`](../outputs/EXP-20-output.txt)
+Sample output: [`../../OUTPUT/EXP-20-output.txt`](../../OUTPUT/EXP-20-output.txt)

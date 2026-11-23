@@ -4,4 +4,4 @@
 
 Source: `n_queens.py`
 
-Sample output: [`../outputs/EXP-02-output.txt`](../outputs/EXP-02-output.txt)
+Sample output: [`../../OUTPUT/EXP-02-output.txt`](../../OUTPUT/EXP-02-output.txt)

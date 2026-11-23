@@ -4,4 +4,4 @@
 
 Source: `breadth_first_search.py`
 
-Sample output: [`../outputs/EXP-07-output.txt`](../outputs/EXP-07-output.txt)
+Sample output: [`../../OUTPUT/EXP-07-output.txt`](../../OUTPUT/EXP-07-output.txt)

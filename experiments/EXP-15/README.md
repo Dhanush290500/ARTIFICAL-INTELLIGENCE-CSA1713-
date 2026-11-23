@@ -4,4 +4,4 @@
 
 Source: `decision_tree.py`
 
-Sample output: [`../outputs/EXP-15-output.txt`](../outputs/EXP-15-output.txt)
+Sample output: [`../../OUTPUT/EXP-15-output.txt`](../../OUTPUT/EXP-15-output.txt)

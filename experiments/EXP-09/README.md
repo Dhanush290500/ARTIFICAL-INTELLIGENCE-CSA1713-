@@ -4,4 +4,4 @@
 
 Source: `travelling_salesperson.py`
 
-Sample output: [`../outputs/EXP-09-output.txt`](../outputs/EXP-09-output.txt)
+Sample output: [`../../OUTPUT/EXP-09-output.txt`](../../OUTPUT/EXP-09-output.txt)

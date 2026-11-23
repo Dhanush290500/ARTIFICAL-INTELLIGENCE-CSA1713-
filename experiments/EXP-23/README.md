@@ -4,4 +4,4 @@
 
 Source: `family_tree.pl`
 
-Sample output: [`../outputs/EXP-23-output.txt`](../outputs/EXP-23-output.txt)
+Sample output: [`../../OUTPUT/EXP-23-output.txt`](../../OUTPUT/EXP-23-output.txt)

@@ -4,4 +4,4 @@
 
 Source: `diet_by_disease.pl`
 
-Sample output: [`../outputs/EXP-24-output.txt`](../outputs/EXP-24-output.txt)
+Sample output: [`../../OUTPUT/EXP-24-output.txt`](../../OUTPUT/EXP-24-output.txt)

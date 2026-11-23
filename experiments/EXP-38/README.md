@@ -4,4 +4,4 @@
 
 Source: `solution.py`
 
-Sample output: [`../outputs/EXP-38-output.txt`](../outputs/EXP-38-output.txt)
+Sample output: [`../../OUTPUT/EXP-38-output.txt`](../../OUTPUT/EXP-38-output.txt)

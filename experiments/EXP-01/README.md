@@ -4,4 +4,4 @@
 
 Source: `eight_puzzle.py`
 
-Sample output: [`../outputs/EXP-01-output.txt`](../outputs/EXP-01-output.txt)
+Sample output: [`../../OUTPUT/EXP-01-output.txt`](../../OUTPUT/EXP-01-output.txt)

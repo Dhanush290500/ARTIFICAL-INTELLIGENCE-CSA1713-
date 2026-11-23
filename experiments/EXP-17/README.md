@@ -4,4 +4,4 @@
 
 Source: `sum_1_to_n.pl`
 
-Sample output: [`../outputs/EXP-17-output.txt`](../outputs/EXP-17-output.txt)
+Sample output: [`../../OUTPUT/EXP-17-output.txt`](../../OUTPUT/EXP-17-output.txt)

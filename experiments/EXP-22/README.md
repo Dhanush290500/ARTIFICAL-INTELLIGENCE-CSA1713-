@@ -4,4 +4,4 @@
 
 Source: `bird_flight.pl`
 
-Sample output: [`../outputs/EXP-22-output.txt`](../outputs/EXP-22-output.txt)
+Sample output: [`../../OUTPUT/EXP-22-output.txt`](../../OUTPUT/EXP-22-output.txt)
