@@ -46,6 +46,10 @@ This collection follows the first 40 items in the supplied five-day lab list. Ea
 | 38 | [Support Vector Machine Binary Classification](experiments/EXP-38/README.md) | python |
 | 39 | [Principal Component Analysis (PCA)](experiments/EXP-39/README.md) | python |
 | 40 | [Collaborative-Filtering Recommendation System](experiments/EXP-40/README.md) | python |
+| 41 | [AO* Search on an AND-OR Graph](ao_star_search.py) | python |
+| 42 | [Travelling Salesperson with a Genetic Algorithm](tsp_genetic_algorithm.py) | python |
+| 43 | [Hospital Patient Database](hospital_patient_database.pl) | prolog |
+| 44 | [Backward Chaining: Bird Flight](backward_chaining_bird.pl) | prolog |
 
 ## Run instructions
 
